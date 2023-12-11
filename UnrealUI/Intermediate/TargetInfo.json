@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealUI",
+			"Path": "..\\Source\\UnrealUI.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealUIEditor",
+			"Path": "..\\Source\\UnrealUIEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

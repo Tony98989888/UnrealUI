@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealui\\unrealui\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealui\\uht\\unrealui.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealui\\unrealui\\intermediate\\build\\win64\\x64\\unrealuieditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealui\\unrealui\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealui\\definitions.unrealui.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

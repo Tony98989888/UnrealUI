@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealUI\\UnrealUI\\Source\\UnrealUI\\UnrealUI.Build.cs",
+		"D:\\UnrealUI\\UnrealUI\\Source\\UnrealUI.Target.cs",
+		"D:\\UnrealUI\\UnrealUI\\Source\\UnrealUIEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
