@@ -11,6 +11,8 @@
     <None Include="..\..\Source\UnrealUIEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -52,6 +54,24 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\UnrealUI\UnrealUIGameMode.h">
       <Filter>Source\UnrealUI</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealUI\Private">
+      <UniqueIdentifier>{39DD0210-027D-3469-88D0-2EBC86E1BFBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UnrealUI\Private\UI">
+      <UniqueIdentifier>{A4472D98-B1D7-31FC-8770-5EC93C1090E2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealUI\Private\UI\PanelBase.cpp">
+      <Filter>Source\UnrealUI\Private\UI</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealUI\Public">
+      <UniqueIdentifier>{73F11EFB-11F6-39B0-844A-38E830EC370E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UnrealUI\Public\UI">
+      <UniqueIdentifier>{1CC02AC2-09D5-38C7-9D1E-4BA4AE291F7D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealUI\Public\UI\PanelBase.h">
+      <Filter>Source\UnrealUI\Public\UI</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
